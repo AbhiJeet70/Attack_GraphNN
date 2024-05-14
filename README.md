@@ -62,6 +62,3 @@ This project utilizes the DeepRobust library for adversarial attacks. Special th
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to adjust any parts of this template to better fit your project's specifics and to add any additional information you think is necessary.
