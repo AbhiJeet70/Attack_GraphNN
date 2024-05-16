@@ -13,7 +13,7 @@ The datasets used in this project are:
 - **Pubmed**
 - **Citeseer**
 
-All datasets are publicly available in the PyTorch Geometric library.
+All datasets are publicly available in the PyTorch Geometric library. The data pre-processing is done with [DeepRobust](https://deeprobust.readthedocs.io/en/latest/graph/data.html)
 
 ## Repository Structure
 
