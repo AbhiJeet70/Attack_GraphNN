@@ -56,7 +56,7 @@ Each dataset has its own Jupyter Notebook file to run the experiments:
 
 ## Acknowledgements
 
-This project utilizes the DeepRobust library for adversarial attacks. Special thanks to the authors of the library and the maintainers of the PyTorch Geometric library for providing the datasets.
+This project utilizes the DeepRobust library for adversarial attacks and PyTorch Geometric library for providing the datasets.
 
 ## License
 
